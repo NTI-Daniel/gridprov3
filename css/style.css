@@ -65,7 +65,7 @@ grid-template-rows: (6, 2fr);
 
 }
 
-.aside{
+.aside1{
     grid-area:as;
     background-color:yellow;
     opacity:90;
