@@ -21,7 +21,7 @@ grid-template-areas:
 
 grid-template-rows: (3, 2fr);
 grid-template-rows: (6, 2fr);
-/*gridgap(möjligtvis)*/
+
 }
 
 .header{
@@ -76,3 +76,9 @@ grid-template-rows: (6, 2fr);
     background-color:purple;
     opacity:90%;
 }
+/* din bild såg ut att ha någon typ av oppacity
+innuti boxarna så att kanterna har lite starkare färg.
+Vet isåfall inte riktigt hur man gör det, utan jag la en
+oppacity på de olika delarna för att få det så likt som möjligt!*/
+
+
